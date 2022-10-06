@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:https://github.com/laban2000/06-10-22.git</connection>
+    <developerConnection>scm:git:git@github.com:https://github.com/laban2000/06-10-22.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>https://github.com/laban2000/06-10-22.git</url>
   </scm>
 
   <prerequisites>
